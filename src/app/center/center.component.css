@@ -1,0 +1,35 @@
+.button-1{
+    /* background-color: #e7e7e7; */
+    border-radius: 10px 10px 10px 10px;
+    margin: auto;
+   }
+   
+.snap1{
+     color: white;
+    
+   }
+   
+.snap2{
+     color: gray;
+     
+   }
+
+.snap3{
+    color: red;
+}
+
+.button-run{
+       background-color: #53ca9e;
+       color: white; 
+      }
+
+.button-debug{
+    background-color: #e7e7e7;
+    color: gray;
+}
+
+.button-stop{
+    background-color: #f3c6c6;
+    border-radius: 10px;
+}
+   

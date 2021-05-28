@@ -1,0 +1,107 @@
+.container-fluid{
+  width: 100%;
+}
+
+body {
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 1em;
+}
+
+.box *:last-child {
+margin-bottom: 0;
+}
+
+.box-4 {
+box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+position: relative;
+width: 100%;
+margin: 0px;
+height: 100%;
+}
+
+.box-content {
+background: none repeat scroll 0 0 #FFFFFF;
+background-color: #FFFFFF;
+/* padding: 25px 55px 45px 55px; */
+position: relative;
+z-index: 1;
+}
+.box-4:after {
+border-radius: 0 0 50% 50% / 0 0 20px 20px;
+bottom: 0;
+box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+content: "";
+height: 20px;
+left: 10px;
+position: absolute;
+right: 10px;
+}
+
+.left-bgg{
+background-color: #FFFFFF;
+}
+
+.action{
+margin-left: 20px;
+}
+
+.trash{
+  float: right;
+  color: red
+}
+
+.ms-n5 {
+  margin-left: -40px;
+}
+
+.button1{
+  float: left;
+}
+
+.button2{
+  float: right;
+}
+
+.btn-secondary {
+  color: black;
+  background-color: #e7e7e7;
+  border-color: #e7e7e7;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #553ed1;
+  border-color: #553ed1;
+}
+
+.btn-link {
+  font-weight: 600;
+  color: black;
+  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-thickness: initial;
+  text-decoration-style: initial;
+  text-decoration-color: initial;
+}
+
+.button-1{
+ background-color: #e7e7e7;
+ border-radius: 10px 10px 10px 10px;
+ text-align: center;
+}
+
+.snap{
+  color: red;
+ 
+}
+
+.snap1{
+  color: #9100ff;
+  
+}
+
+.snap2{
+  color: #5925fa;
+ 
+}
+
